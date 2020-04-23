@@ -1,3 +1,8 @@
+######## 입력인 필요한 경우 다른 모듈에서 사용할 방법
+# import commonDef.commonInput as comInput
+# input_arr = comInput.sysInputArr() # input 배열
+
+
 import sys
 
 def sysInputArr() :
