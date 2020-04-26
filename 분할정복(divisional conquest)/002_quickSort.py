@@ -2,6 +2,7 @@
 # 8,5,1,7,6,4,3,2,9 데이터를 퀵정렬하기
 
 numbers = [8,5,1,7,6,4,3,2,9]
+x = 6   # 찾을 데이터
 
 def quickSort(array):
     if len(array) < 2:
